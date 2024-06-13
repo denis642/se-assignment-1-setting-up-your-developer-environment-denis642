@@ -41,6 +41,13 @@ This assignment aims to familiarize you with the tools and configurations necess
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 - A reflection on the challenges faced during setup and strategies employed to overcome them.
 
+
+CHALLENGES FACED DURING SETUP AND STRATEGIES EMPLOYED TO OVERCOME THEM.
+
+1. Initially, I had to ensure my system met the minimum requirements for Windows 11. Additionally, I experienced a delay due to a large update that needed to be downloaded. To overcome these issues, I consulted the official Windows 11 installation guide and followed troubleshooting tips provided on the Microsoft support website.
+2. Another challenge was on configuring Git on Windows to solve this i followed the documentation provided in the official website of the git and successfully did it.
+3. Networking and connectivity issues where i solved this by looking for a strong internet connection to ensure faster downloading of this some of this tools which some were too large.
+
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
