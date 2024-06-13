@@ -37,7 +37,8 @@ This assignment aims to familiarize you with the tools and configurations necess
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
-- Document detailing the setup process with step-by-step instructions and screenshots where necessary.[SE-DEVELOPMENT-ENVIRONMENT-documentation.txt](https://github.com/user-attachments/files/15818543/SE-DEVELOPMENT-ENVIRONMENT-documentation.txt)
+- Document detailing the setup process with step-by-step instructions and screenshots where necessary.[SE DEVELOPMENT ENVIRONMENT documentation.docx](https://github.com/user-attachments/files/15819502/SE.DEVELOPMENT.ENVIRONMENT.documentation.docx)
+
 
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 
